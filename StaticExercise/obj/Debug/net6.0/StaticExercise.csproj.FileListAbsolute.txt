@@ -1,0 +1,15 @@
+C:\Repos\StaticExercise\StaticExercise\bin\Debug\net6.0\StaticExercise.exe
+C:\Repos\StaticExercise\StaticExercise\bin\Debug\net6.0\StaticExercise.deps.json
+C:\Repos\StaticExercise\StaticExercise\bin\Debug\net6.0\StaticExercise.runtimeconfig.json
+C:\Repos\StaticExercise\StaticExercise\bin\Debug\net6.0\StaticExercise.dll
+C:\Repos\StaticExercise\StaticExercise\bin\Debug\net6.0\StaticExercise.pdb
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfoInputs.cache
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfo.cs
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\StaticExercise.sourcelink.json
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\StaticExercise.dll
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\refint\StaticExercise.dll
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\StaticExercise.pdb
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\StaticExercise.genruntimeconfig.cache
+C:\Repos\StaticExercise\StaticExercise\obj\Debug\net6.0\ref\StaticExercise.dll
